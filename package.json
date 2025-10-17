@@ -1,0 +1,8 @@
+{
+  "name": "api-ratelimit-tester",
+  "version": "0.1.0",
+  "description": "Demo package for API-RateLimit-Tester",
+  "main": "assets/app.js",
+  "scripts": { "start": "node assets/app.js" },
+  "license": "MIT"
+}
